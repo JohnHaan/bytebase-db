@@ -1,1 +1,0 @@
-ALTER TABLE "public"."employee" ADD COLUMN "email2" text NOT NULL DEFAULT '';
